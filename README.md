@@ -1,11 +1,12 @@
 <!-- Animated Typing Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey+👋+I'm+Aryan+Kumar;AI+Developer+%7C+Problem+Solver;Building+Cool+Things+with+Code;Future+Software+Engineer🚀" />
-</p>
 
 ---
 
 # 👨‍💻 Aryan Kumar Sahu 
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey+👋+I'm+Aryan+Kumar;AI+Developer+%7C+Problem+Solver;Building+Cool+Things+with+Code;Future+Software+Engineer🚀" />
+</p>
 
 🚀 **AI Developer | Backend Enthusiast | Problem Solver**  
 💡 Building projects that combine **intelligence + real-world impact**  
