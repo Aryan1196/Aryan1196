@@ -5,7 +5,7 @@
 
 ---
 
-# 👨‍💻 Aryan Kumar  
+# 👨‍💻 Aryan Kumar Sahu 
 
 🚀 **AI Developer | Backend Enthusiast | Problem Solver**  
 💡 Building projects that combine **intelligence + real-world impact**  
@@ -123,7 +123,8 @@
 ⚡ I turn ideas into reality using code  
 
 ---
+## 🙏Motivation
 
- "Sometimes you gotta run before you can walk." — **Tony Stark**
+ > "Sometimes you gotta run before you can walk." — **Tony Stark**
 
 ⭐ **If you like my work, consider giving a star!**
