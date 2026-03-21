@@ -118,17 +118,6 @@
 
 ## ✍️ Dev Quote  
 
-> "Stay consistent. Small progress every day leads to big results someday."  
-
----
-
-## 💡 Fun Fact  
-
-⚡ I turn ideas into reality using code  
-
----
-## 🙏Motivation
-
  > "Sometimes you gotta run before you can walk." — **Tony Stark**
 
 ⭐ **If you like my work, consider giving a star!**
