@@ -1,19 +1,25 @@
 <!-- Animated Typing Header -->
 
----
-
-# 👨‍💻 Aryan Kumar Sahu 
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey+👋+I'm+Aryan+Kumar+Sahu;AI+Developer+%7C+Problem+Solver;Building+Cool+Things+with+Code;Future+Software+Engineer🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hey+👋+I'm+Aryan+Kumar+Sahu;AI+Developer+%7C+Problem+Solver;Building+Cool+Things+with+Code;Future+Software+Engineer🚀" />
 </p>
 
-🚀 **AI Developer | Backend Enthusiast | Problem Solver**  
-💡 Building projects that combine **intelligence + real-world impact**  
-⚡ Focused on becoming a **top-tier Software Engineer**
+<h1 align="center">👨‍💻 Aryan Kumar Sahu</h1>
 
-  <br>
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+<p align="center">
+🚀 <b>AI Developer | Backend Enthusiast | Problem Solver</b><br>
+💡 Building projects that combine <b>intelligence + real-world impact</b><br>
+⚡ Focused on becoming a <b>top-tier Software Engineer</b>
+</p>
+
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aryan1196&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="500"/>
+</p>
 
 ---
 
@@ -33,7 +39,8 @@
   <a href="https://instagram.com/_.aryankumarsahu._"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://linkedin.com/in/aryan-kumar-sahu-0b10b3362"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/Aryan1196"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="mailto: aryanaks0007@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:aryanaks0007@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://twitter.com/your-username"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 
 ---
@@ -44,6 +51,7 @@
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow"/>
+<img src="https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=gnubash&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
 <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
@@ -118,6 +126,8 @@
 
 ## ✍️ Dev Quote  
 
- > "Sometimes you gotta run before you can walk." — **Tony Stark**
+> "Sometimes you gotta run before you can walk." — **Tony Stark**
+
+---
 
 ⭐ **If you like my work, consider giving a star!**
