@@ -110,8 +110,7 @@
 
 ## 🏆 Coding Profiles  
 
-- 💻 LeetCode: https://leetcode.com/Aryan_kumar_sahu  
-- 🧠 Codeforces: https://codeforces.com/profile/your-username  
+- 💻 LeetCode: https://leetcode.com/Aryan_kumar_sahu   
 - 🏁 HackerRank: https://hackerrank.com/24E119B62_Aryan  
 
 ---
