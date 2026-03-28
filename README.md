@@ -40,8 +40,8 @@
 
 <p align="center"><img src="https://img.shields.io/badge/Java-ff6f00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=000000"/>
 <img src="https://img.shields.io/badge/Python-00c853?style=for-the-badge&logo=python&logoColor=white&labelColor=000000"/>
-<img src="https://img.shields.io/badge/JavaScript-ffd600?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000000"/><img src="https://img.shields.io/badge/Machine%20Learning-ff1744?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=000000"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-ff9100?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=000000"/><img src="https://img.shields.io/badge/Git-ff3d00?style=for-the-badge&logo=git&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/JavaScript-ffd600?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000000"/><br><img src="https://img.shields.io/badge/Machine%20Learning-ff1744?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-ff9100?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=000000"/><br><img src="https://img.shields.io/badge/Git-ff3d00?style=for-the-badge&logo=git&logoColor=white&labelColor=000000"/>
 <img src="https://img.shields.io/badge/Linux-2979ff?style=for-the-badge&logo=linux&logoColor=white&labelColor=000000"/>
 <img src="https://img.shields.io/badge/VS%20Code-00e5ff?style=for-the-badge&logo=visualstudiocode&logoColor=black&labelColor=000000"/></p>---
 
