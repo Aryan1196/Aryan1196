@@ -6,6 +6,10 @@
 ⚡ On a mission to become a <b>top 1% Software Engineer</b>
 </p><p align="center">
   <img src="https://img.shields.io/badge/Profile%20Status-Active%20🔥-00F7FF?style=for-the-badge&logo=github&logoColor=black&labelColor=000000"/>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="500"/>
+</p>
 </p><img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=120&section=header"/>---
 
 🧠 About Me
