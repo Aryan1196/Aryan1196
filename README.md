@@ -83,17 +83,20 @@
   <img src="https://streak-stats.demolab.com?user=Aryan1196&theme=tokyonight"/>
 </p>---
 
-🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aryan1196&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>---
-
 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
 </p>---
+
+🏆 Achievements
+
+- ⭐ Active GitHub Contributor
+- 🚀 Building AI + Full Stack Projects
+- 💡 Consistent DSA Practice
+- 🔥 Strong Learning Mindset
+
+---
 
 💼 Why Me?
 
