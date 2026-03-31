@@ -125,7 +125,7 @@
 
 ✍️ Dev Quote
 
-«"Sometimes you gotta run before you can walk." — Tony Stark»
+«"As long as I live I have infinite chances." — Monkey D Luffy»
 
 ---
 
