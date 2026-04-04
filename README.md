@@ -123,9 +123,10 @@
 
 ---
 
-✍️ Dev Quote
+## 🖤 Dev Quote
 
-«"As long as I live I have infinite chances." — Monkey D Luffy»
+> **"As long as I live, I have infinite chances."**  
+> — *Monkey D. Luffy*
 
 ---
 
